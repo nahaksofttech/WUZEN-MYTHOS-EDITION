@@ -2,16 +2,10 @@
 
 <!-- SEO Meta Keywords: FUD, GPP, WUZENRAT, Telegrambasedrat, WUZEN RAT, APK Builder, Android APK Generator, WebView APK, Custom APK Builder, WUZEN 2026, Android App Builder Panel, APK Sign Tool, One-Click APK, Node.js APK Panel -->
 
-```
-██╗    ██╗██╗   ██╗███████╗███████╗███╗   ██╗
-██║    ██║██║   ██║╚══███╔╝██╔════╝████╗  ██║
-██║ █╗ ██║██║   ██║  ███╔╝ █████╗  ██╔██╗ ██║
-██║███╗██║██║   ██║ ███╔╝  ██╔══╝  ██║╚██╗██║
-╚███╔███╔╝╚██████╔╝███████╗███████╗██║ ╚████║
- ╚══╝╚══╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝
-```
-
-# ⚡ WUZEN — R4T 2026
+![dhsj](https://github.com/user-attachments/assets/aad6b8c7-938c-4b3e-bb54-43d15957cdea)
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+YaHei&size=28&duration=4000&color=FF0000&center=true&vCenter=true&width=500&lines=%E6%AD%A6%E7%A5%9E+WUZEN+RAT+2026;GHOST+HVNC;Telegram+Based+RAT" alt="Wuzen Title">
+</h2>
 
 **Build. Brand. Deploy. — One Panel to Rule Them All.**
 
